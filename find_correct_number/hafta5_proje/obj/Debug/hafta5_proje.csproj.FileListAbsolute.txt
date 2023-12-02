@@ -1,0 +1,10 @@
+C:\Users\ahayd\OneDrive\Masaüstü\dönem 5\pro3 csharp\hafta5_proje\hafta5_proje\bin\Debug\hafta5_proje.exe.config
+C:\Users\ahayd\OneDrive\Masaüstü\dönem 5\pro3 csharp\hafta5_proje\hafta5_proje\bin\Debug\hafta5_proje.exe
+C:\Users\ahayd\OneDrive\Masaüstü\dönem 5\pro3 csharp\hafta5_proje\hafta5_proje\bin\Debug\hafta5_proje.pdb
+C:\Users\ahayd\OneDrive\Masaüstü\dönem 5\pro3 csharp\hafta5_proje\hafta5_proje\obj\Debug\hafta5_proje.csproj.AssemblyReference.cache
+C:\Users\ahayd\OneDrive\Masaüstü\dönem 5\pro3 csharp\hafta5_proje\hafta5_proje\obj\Debug\hafta5_proje.Form1.resources
+C:\Users\ahayd\OneDrive\Masaüstü\dönem 5\pro3 csharp\hafta5_proje\hafta5_proje\obj\Debug\hafta5_proje.Properties.Resources.resources
+C:\Users\ahayd\OneDrive\Masaüstü\dönem 5\pro3 csharp\hafta5_proje\hafta5_proje\obj\Debug\hafta5_proje.csproj.GenerateResource.cache
+C:\Users\ahayd\OneDrive\Masaüstü\dönem 5\pro3 csharp\hafta5_proje\hafta5_proje\obj\Debug\hafta5_proje.csproj.CoreCompileInputs.cache
+C:\Users\ahayd\OneDrive\Masaüstü\dönem 5\pro3 csharp\hafta5_proje\hafta5_proje\obj\Debug\hafta5_proje.exe
+C:\Users\ahayd\OneDrive\Masaüstü\dönem 5\pro3 csharp\hafta5_proje\hafta5_proje\obj\Debug\hafta5_proje.pdb

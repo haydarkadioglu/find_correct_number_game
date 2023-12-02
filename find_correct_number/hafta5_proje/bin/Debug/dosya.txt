@@ -1,0 +1,5 @@
+bilinen sayı :123 (30 Puan)
+bilinen sayı :123456 (60 Puan)
+bilinen sayı :123 (30 Puan)
+bilinen sayı :123 (30 Puan)
+bilinen sayı :856321 (60 Puan)
